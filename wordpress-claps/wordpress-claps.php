@@ -4,7 +4,7 @@
  * Plugin URI: http://github.com/firstziiz/wordpress-claps
  * Description: Claps Widget for Single Blog
  * Version: 0.0.1
- * Author: Pronto Tools
+ * Author: Kanisorn Sutham
  * Author URI: http://github.com/firstziiz
  * License: The MIT License
  * License URI: https://opensource.org/licenses/MIT
