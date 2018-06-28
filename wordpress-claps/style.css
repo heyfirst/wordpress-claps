@@ -1,0 +1,25 @@
+.pt-claping {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  height: 50px;
+  width: 50px;
+  border-radius: 500px;
+  background-color: #44ec67;
+  border: 0;
+  color: #000;
+  font-size: 2rem;
+  z-index: 99999;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  cursor: pointer;
+}
+
+.pt-claping span {
+  position: absolute;
+  top: -2rem;
+  font-size: 1rem;
+}
